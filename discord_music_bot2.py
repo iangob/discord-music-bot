@@ -420,4 +420,4 @@ async def 명령어(ctx):
 -대기열삭제 [숫자] -> 대기열에서 입력한 숫자에 해당하는 노래를 지웁니다.""", color = 0x00ff00))
 
 access_token = os.environ["BOT_TOKEN"]
-bot.run(access_token)
+client.run(access_token)
