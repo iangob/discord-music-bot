@@ -4,7 +4,7 @@ import json
 import os
 
 # ---- 설정 ----
-TOKEN = TOKEN
+TOKEN = token
 ROLE_NAME = "유동"      # 닉네임을 "ㅇㅇ"으로 바꿀 대상 역할
 RESET_ROLE_NAME = "유저"      # 이 역할이 추가되면 원래 닉네임으로 복구
 NEW_NICK = "ㅇㅇ"
